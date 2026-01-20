@@ -1,52 +1,49 @@
 # 👋 Hi, I'm Owen 🇰🇷
 
-I'm a developer deeply interested in **LLM systems**, especially **Retrieval-Augmented Generation (RAG)**.  
-I enjoy turning everything I learn into **real-world iOS app services**, bridging AI, backend systems, and user-facing products.
+**AI Engineer / LLM Engineer** focused on building **production-ready LLM systems**,  
+especially **Retrieval-Augmented Generation (RAG)**.
 
-My focus is on building **practical, production-oriented applications** rather than experimental demos.
-
----
+I specialize in designing **end-to-end AI services** — from data ingestion and retrieval pipelines  
+to API servers and **real iOS applications used by users**.
 
 ## 🚀 Interests
-- LLM & RAG architecture (document retrieval, embeddings, multimodal pipelines)
-- Backend API design with FastAPI
-- iOS app development with Swift & SwiftUI
-- Turning complex AI systems into usable products
+- LLM system design (RAG, prompt engineering, evaluation)
+- Embedding-based retrieval & vector search
+- AI backend architecture with FastAPI
+- LLM-powered iOS applications (Swift / SwiftUI)
+- Clean, scalable service & repository architectures
 
----
 
 ## 🛠 Tech Stack
 
-### 🧱 Infrastructure & Cloud
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+### 🤖 AI / LLM
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=plastic&logo=langchain&logoColor=FFFFFF)
+![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=plastic&logo=langchain&logoColor=FFFFFF)
+![Ollama](https://img.shields.io/badge/Ollama-FFFFFF?style=plastic&logo=ollama&logoColor=000000)
 
-
-### 🔄 CI / CD & Collaboration
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)
+![GPT](https://img.shields.io/badge/GPT-000000?style=plastic&logo=gpt&logoColor=000000)
+![FAISS](https://img.shields.io/badge/FAISS-1877F2?style=plastic&logo=faiss&logoColor=1877F2)
 
 
 ### ⚙️ Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=plastic&logo=fastapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white)
 
 
-### 📱 Frontend (iOS)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white)
+### 🧱 Infrastructure & Cloud
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=plastic&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white)
 
 
-### 🎨 Design & Planning
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+### 📱 Frontend
+![Swift](https://img.shields.io/badge/Swift-F05138?style=plastic&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=plastic&logo=swift&logoColor=white)
 
 
-## 📌 What I Like to Build
-- RAG-powered AI assistants
-- Legal / policy / document-based AI services
-- iOS apps backed by robust backend APIs
-- Clean, scalable architectures (Service / Repository / Domain separation)
-
+### 🔄 Collaboration & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=plastic&logo=discord&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white)
